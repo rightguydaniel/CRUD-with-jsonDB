@@ -1,0 +1,41 @@
+[
+  {
+    "organization": "node ninja",
+    "createdAt": "2023-10-23T20:56:48.892Z",
+    "updatedAt": "2023-10-23T20:56:48.892Z",
+    "products": ["developers", "pizza"],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": 1,
+    "noOfEmployees": 2,
+    "employees": ["james bond", "jackie chan"]
+  },
+  {
+    "organization": "node-man",
+    "createdAt": "2023-10-23T20:57:41.333Z",
+    "updatedAt": "2023-10-23T20:57:41.333Z",
+    "products": ["developers", "pizza"],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": 2,
+    "noOfEmployees": 2,
+    "employees": ["james bond", "jackie chan"]
+  },
+  {
+    "organization": "nodemon",
+    "createdAt": "2023-10-23T20:57:29.649Z",
+    "updatedAt": "2023-10-23T20:57:29.649Z",
+    "products": ["hardware", "softwares"],
+    "marketValue": "100%",
+    "address": "oklahoma",
+    "ceo": "Akemini",
+    "country": "US",
+    "id": 3,
+    "noOfEmployees": 2,
+    "employees": ["james bond", "jackie chan"]
+  }
+]
